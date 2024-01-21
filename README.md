@@ -1,7 +1,7 @@
 <h1 align="center">
   StarWars Planet API (sw-planet-api)
 </h1>
-## Aprendendo testes automatizados com Spring Boot na prática!
+
 <br>
 
 ## 💻 Projeto
